@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">YorickChatter</string>
+    <string name="scan">SCAN</string>
+
+    <string name="suchEmpty">Holy Guacamole! Such empty!</string>
+    <string name="nothing">Still Nothing Here</string>
+    <string name="hint">Start typing...</string>
+
+    <string name="paired">PAIRED DEVICES</string>
+    <string name="discovered">DISCOVERED DEVICES</string>
+
+    <string name="cancelBtn">CANCEL</string>
+
+    <string name="dialogTitle">Bluetooth Devices</string>
+
+    <string name="sednBtn">SEND</string>
+
+    <string name="reg">SIGN UP</string>
+    <string name="login">YOUR LOGIN</string>
+    <string name="password">ENTER PASSWORD</string>
+
+    <string name="alreadyReg">Already have an account? Sign in</string>
+
+    <string name="generatePSWRD">Generate Password?</string>
+
+    <string name="isWantToSendEmail">If you want to get email with your password specify your email address here</string>
+    <string name="helloTitle">Hello! Please, sign up to continue</string>
+    <string name="titleSignUp">SIGN UP</string>
+    <string name="titleSignIn">SIGN IN</string>
+    <string name="helloTitleSignIn">Please, sign into your account to continue</string>
+
+    <string name="onoffbluetooth">ON/OFF BLUETOOTH</string>
+
+    <string name="author">Developed by Yaroslav Yevdokimov aka redsn0w</string>
+    <string name="tglink">t.me/asasdasqwerty</string>
+
+</resources>
